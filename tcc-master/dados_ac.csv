@@ -1,0 +1,1 @@
+timestamp,volta,tempo_volta_ms,posicao_pista,velocidade_kmh,rpm,marcha,acelerador,freio,embreagem,forca_g_lat,forca_g_lon,temp_pneu_fl,temp_pneu_fr,temp_pneu_rl,temp_pneu_rr,temp_freio_fl,temp_freio_fr,temp_freio_rl,temp_freio_rr,desgaste_pneu_fl,desgaste_pneu_fr,desgaste_pneu_rl,desgaste_pneu_rr,abs_ativo,tc_ativo,turbo_boost,distancia_total_m
